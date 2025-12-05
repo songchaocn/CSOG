@@ -6,7 +6,7 @@ Official implementation of the paper **"A Cross-disease Knowledge Transfer Frame
 
 ## Citation
 If you use CSOG in your research, please cite our paper:
-
+```bibtex
 @inproceedings{song2025csog,
   title={A Cross-disease Knowledge Transfer Framework for Small-sample Omics Analysis with GNNs},
   author={Song, Chao and Xian, Kunyang and Yao, Peng and Gan, Lu and Hu, Ruilin and Lu, Li and Cao, Yu},
@@ -14,7 +14,7 @@ If you use CSOG in your research, please cite our paper:
   year={2025},
   organization={IEEE}
 }
-
+```
 ## Overview
 CSOG (Cross-disease knowledge transfer framework for Small-sample Omics analysis with GNNs) addresses the challenge of overfitting and poor generalization in small-sample disease omics analysis. It leverages a **pretraining-freezing fine-tuning paradigm** to transfer biological network knowledge from large-sample multi-omics data to small-sample single-omics target diseases, achieving state-of-the-art classification performance.
 
