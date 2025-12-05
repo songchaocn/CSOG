@@ -27,8 +27,6 @@ CSOG (Cross-disease knowledge transfer framework for Small-sample Omics analysis
 <img width="661" height="480" alt="image" src="https://github.com/user-attachments/assets/4b7e8125-47dc-47ed-975a-0747941c9347" />
 
 
-![Framework Architecture](docs/CSOG_architecture.png)  
-*(Add the framework figure from the paper here; place the image in the `docs/` folder)*
 
 ## Datasets
 We use 4 real-world omics datasets from TCGA (https://gdac.broadinstitute.org/):
@@ -41,11 +39,9 @@ We use 4 real-world omics datasets from TCGA (https://gdac.broadinstitute.org/):
 | UCS     | Target     | 56      | mRNA              | 4 pathologic stages (I-IV)              |
 
 
-
 ## Installation
 ### Prerequisites
 - Python 3.8+
 - PyTorch 1.10+
 - PyTorch Geometric (PyG) 2.0+
-- Other dependencies: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`
 
