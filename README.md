@@ -39,9 +39,12 @@ We use 4 real-world omics datasets from TCGA (https://gdac.broadinstitute.org/):
 | UCS     | Target     | 56      | mRNA              | 4 pathologic stages (I-IV)              |
 
 
-## Installation
-### Prerequisites
+
+## Prerequisites
 - Python 3.8+
 - PyTorch 1.10+
 - PyTorch Geometric (PyG) 2.0+
+
+## Running
+Run the main.py
 
