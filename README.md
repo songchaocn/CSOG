@@ -7,9 +7,9 @@ Official implementation of the paper **"A Cross-disease Knowledge Transfer Frame
 ## Citation
 If you use CSOG in your research, please cite our paper:
 ```bibtex
-@inproceedings{song2025csog,
+@inproceedings{chaosong2025csog,
   title={A Cross-disease Knowledge Transfer Framework for Small-sample Omics Analysis with GNNs},
-  author={Song, Chao and Xian, Kunyang and Yao, Peng and Gan, Lu and Hu, Ruilin and Lu, Li and Cao, Yu},
+  author={Chao Song, Kunyang Xian, Peng Yao, Lu Gan, Ruilin Hu, Li Lu, and Yu Cao},
   booktitle={Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
   year={2025},
   organization={IEEE}
