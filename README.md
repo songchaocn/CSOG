@@ -2,7 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-BIBM25-blue)](https://arxiv.org/abs/xxx.xxxx) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange.svg)](https://pytorch.org/)
 
-Official implementation of the paper **"A Cross-disease Knowledge Transfer Framework for Small-sample Omics Analysis with GNNs"** (accepted by BIBM 2025).
+The official implementation of the paper **"A Cross-disease Knowledge Transfer Framework for Small-sample Omics Analysis with GNNs"** (accepted by BIBM 2025).
 
 ## Citation
 If you use CSOG in your research, please cite our paper:
